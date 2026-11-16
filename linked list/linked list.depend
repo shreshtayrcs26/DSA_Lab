@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793764437 source:c:\users\admin\desktop\1bm26cs438-t\linked list\cqueue.c
+	<stdio.h>
+	<stdlib.h>
+
+1793763240 source:c:\users\admin\desktop\1bm26cs438-t\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1793764400 source:c:\users\admin\desktop\1bm26cs438-t\linked list\queue.c
+	<stdio.h>
+	<stdlib.h>
+
